@@ -6,7 +6,7 @@ print('''
 
 def email_slicer(email):
     '''
-        This function slices the Email Address into two parts :- Username and Domain from the postion of the '@' sign.
+        This function slices the Email Address into two parts :- Username and Domain from the position of the '@' sign.
 
         Argument : Email Address
         Return: Username, Domain
